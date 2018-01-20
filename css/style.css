@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.me {
+    margin: 5px;
+    padding: 5px;
+    background-color: #adf;
+}
+
+li {
+    font-size: 15px;
+    font-weight: 500;
+    margin: 5px;
+    padding: 5px;
+    background-color: #5cb85c;
+}
