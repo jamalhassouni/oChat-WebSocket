@@ -47,7 +47,7 @@ $(document).ready(function () {
                     }else{
                         messageList.append('<li>'+this.text+'</li>');
                     }
-                })
+                });
             }
         });
         var chatName =  $.cookie('chat_name');
