@@ -13,3 +13,4 @@ Run the app from your browser at: http://localhost/oChat-WebSocket/
 Create name  and enter
 Enter the neme from two different browsers (using the same link) and test by sending text chats. This can be done on the same device.
 Works best on Chrome, Firefox and the latest versions of Opera desktop browser.
+to change database connection go to src/setup_eloquent.php and change name of database
